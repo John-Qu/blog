@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "48F1E615",
-    "lastKnownWriteTime" : 1575764526,
-    "last_content_update" : 1575764680137,
+    "lastKnownWriteTime" : 1575769754,
+    "last_content_update" : 1575770439707,
     "path" : "~/PycharmProjects/qz_blog/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "36,53",
-        "scrollLine" : "14"
+        "cursorPosition" : "36,56",
+        "scrollLine" : "13"
     },
     "relative_order" : 1,
     "source_on_save" : false,

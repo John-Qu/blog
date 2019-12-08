@@ -1,4 +1,4 @@
-baseurl = "https://john-qu.netlify.io"
+baseurl = "https://john-qu.netlify.com"
 languageCode = "en-us"
 title = "John Qu | 曲政"
 theme = "hugo-ivy"
@@ -90,8 +90,8 @@ rssLimit = 100
     weight = 6
 
 [params]
-    description = "A Hugo theme ported from the static site generator Ivy."
-    footer = "&copy; [John Qu](https://john-qu.github) 2019 | [Github](https://github.com/yihui) | [WeChat](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAwNzgwNjI3MA==&scene=124#wechat_redirect)"
+    description = "Reflection in Transition"
+    footer = "&copy; [John Qu](https://john-qu.netlify.com) 2019 | [Github](https://github.com/john-qu)"
 
   highlightjsVersion = "9.12.0"
   highlightjsCDN = "//cdn.bootcss.com"

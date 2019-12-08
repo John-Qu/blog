@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "673735734",
+    "hash" : "0",
     "id" : "A0F4FE1D",
-    "lastKnownWriteTime" : 1575764526,
-    "last_content_update" : 1575764526,
+    "lastKnownWriteTime" : 1575774639,
+    "last_content_update" : 1575774639,
     "path" : "~/PycharmProjects/qz_blog/content/about.md",
     "project_path" : "content/about.md",
     "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
     },
     "relative_order" : 2,
     "source_on_save" : false,

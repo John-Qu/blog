@@ -1,0 +1,11 @@
+---
+title: 我为什么练五笔打字？
+author: John Qu
+date: '2019-03-01'
+slug: why-I-learn-wubi-now
+categories:
+  - 贝贝60秒
+tags:
+  - 为什么
+  - 工具
+---

@@ -164,3 +164,15 @@ To update your account to use zsh, please run `chsh -s /bin/zsh`.
 For more details, please visit https://support.apple.com/kb/HT208050.
 ]0;~/PycharmProjects/qz_blog[?1034h[1m[38;5;125mjohnqu [38;5;244mat [38;5;166mJMacBook [38;5;244min [38;5;64m~/PycharmProjects/qz_blog[38;5;244m on [38;5;61mmaster*[38;5;244m
 git add .
+]0;~/PycharmProjects/qz_blog[1m[38;5;125mjohnqu [38;5;244mat [38;5;166mJMacBook [38;5;244min [38;5;64m~/PycharmProjects/qz_blog[38;5;244m on [38;5;61mmaster*[38;5;244m
+$ (B[mgit commit -m "add first 60 seconds file"
+[master 577d061] add first 60 seconds file
+ 17 files changed, 145 insertions(+), 4 deletions(-)
+ rewrite .Rproj.user/1CA03E23/console06/INDEX001 (84%)
+ create mode 100644 .gitmodules
+ create mode 100644 .idea/rSettings.xml
+ create mode 100644 content/cn/2019-03-01-why-I-learn-wubi-now.Rmd
+ create mode 100644 content/cn/2019-03-01-why-I-learn-wubi-now.html
+ create mode 100644 content/en/_index.md
+]0;~/PycharmProjects/qz_blog[1m[38;5;125mjohnqu [38;5;244mat [38;5;166mJMacBook [38;5;244min [38;5;64m~/PycharmProjects/qz_blog[38;5;244m on [38;5;61mmaster*[38;5;244m
+$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[mgit add .

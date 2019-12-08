@@ -13,12 +13,47 @@
   </url>
   
   <url>
-    <loc>/note/2017/06/14/another-note/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    <loc>/cn/2019/11/deliver-what-to-child/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/oneminute/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/shortnote/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E5%AD%A9%E5%AD%90/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E6%84%8F%E4%B9%89/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E9%80%89%E6%8B%A9/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/note/2017/06/14/another-note/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,11 +68,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/tutorial/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url>
@@ -45,6 +75,11 @@
   <url>
     <loc>/note/2017/06/13/a-quick-note/</loc>
     <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cn/</loc>
+    <lastmod>2017-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>

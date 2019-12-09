@@ -1,4 +1,4 @@
-baseurl = "https://john-qu.netlify.com"
+baseurl = "https://john-qu.netlify.com/"
 languageCode = "en-us"
 title = "John Qu | 曲政"
 theme = "hugo-ivy"

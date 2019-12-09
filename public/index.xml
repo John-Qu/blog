@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>try</title>
+      <link>/post/2019/12/09/try/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/12/09/try/</guid>
+      <description>Try if html files generated.</description>
+    </item>
+    
+    <item>
+      <title>try_rmd</title>
+      <link>/post/2019/12/09/try-rmd/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/12/09/try-rmd/</guid>
+      <description>Try rmd file, if html file is generated.</description>
+    </item>
+    
+    <item>
       <title>About John Qu</title>
       <link>/about/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>

@@ -97,3 +97,13 @@ rssLimit = 100
   highlightjsCDN = "//cdn.bootcss.com"
   highlightjsLang = ["r", "yaml", "tex", "python"]
   highlightjsTheme = "github"
+
+[params.valine]
+    enable = true
+    appId = 'DmxYx3PkAOKtKsw1N25DeH3A-gzGzoHsz'
+    appKey = 'x3DJDBP168lRURzRo4OBn3cH'
+    notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+    verify = false # Verification code
+    avatar = 'identicon'
+    placeholder = '说点什么吧...'
+    visitor = false

@@ -201,4 +201,27 @@ To https://github.com/John-Qu/blog.git
    4cced52..f4325cc  master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 ]0;~/PycharmProjects/qz_blog[1m[38;5;125mjohnqu [38;5;244mat [38;5;166mJMacBook [38;5;244min [38;5;64m~/PycharmProjects/qz_blog[38;5;244m on [38;5;61mmaster*[38;5;244m
-$ (B[m
+$ (B[m(B[mbash: /Users/johnqu/.bash_profile: line 31: syntax error near unexpected token `category="LC_ALL",'
+bash: /Users/johnqu/.bash_profile: line 31: `Sys.setlocale(category="LC_ALL", locale = "en_US.UTF-8")'
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+]0;~/PycharmProjects/qz_blog[?1034h[1m[38;5;125mjohnqu [38;5;244mat [38;5;166mJMacBook [38;5;244min [38;5;64m~/PycharmProjects/qz_blog[38;5;244m on [38;5;61mmaster*[38;5;244m
+[K$ (B[mgit status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[32mmodified:   .Rproj.user/1CA03E23/console06/7EA56FC8[m
+	[32mmodified:   .Rproj.user/1CA03E23/console06/INDEX001[m
+	[32mmodified:   .Rproj.user/1CA03E23/sources/prop/INDEX[m
+	[32mmodified:   .Rproj.user/shared/notebooks/paths[m
+	[32mmodified:   content/cn/2007-11-07-没人和我抢碗刷了——怀念姥姥.Rmd[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/PycharmProjects/qz_blog[1m[38;5;125mjohnqu [38;5;244mat [38;5;166mJMacBook [38;5;244min [38;5;64m~/PycharmProjects/qz_blog[38;5;244m on [38;5;61mmaster*[38;5;244m
+$ (B[mgit pu[K[Kadd .

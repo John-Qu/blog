@@ -225,3 +225,12 @@ Changes not staged for commit:
 no changes added to commit (use "git add" and/or "git commit -a")
 ]0;~/PycharmProjects/qz_blog[1m[38;5;125mjohnqu [38;5;244mat [38;5;166mJMacBook [38;5;244min [38;5;64m~/PycharmProjects/qz_blog[38;5;244m on [38;5;61mmaster*[38;5;244m
 $ (B[mgit pu[K[Kadd .
+]0;~/PycharmProjects/qz_blog[1m[38;5;125mjohnqu [38;5;244mat [38;5;166mJMacBook [38;5;244min [38;5;64m~/PycharmProjects/qz_blog[38;5;244m on [38;5;61mmaster*[38;5;244m
+$ (B[mgit commit -m "ready f[Kto check whter[Kth[K[K[K[Kether cannot see 2007"
+[master bf94de5] ready to check whether cannot see 2007
+ 6 files changed, 34 insertions(+), 8 deletions(-)
+ rewrite .Rproj.user/1CA03E23/console06/INDEX001 (84%)
+]0;~/PycharmProjects/qz_blog[1m[38;5;125mjohnqu [38;5;244mat [38;5;166mJMacBook [38;5;244min [38;5;64m~/PycharmProjects/qz_blog[38;5;244m on [38;5;61mmaster*[38;5;244m
+$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m
+]0;~/PycharmProjects/qz_blog[1m[38;5;125mjohnqu [38;5;244mat [38;5;166mJMacBook [38;5;244min [38;5;64m~/PycharmProjects/qz_blog[38;5;244m on [38;5;61mmaster*[38;5;244m
+$ (B[m

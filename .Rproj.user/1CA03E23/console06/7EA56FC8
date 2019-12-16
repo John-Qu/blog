@@ -233,4 +233,10 @@ $ (B[mgit commit -m "ready f[Kto check whter[Kth[K[K[K[Kether cann
 ]0;~/PycharmProjects/qz_blog[1m[38;5;125mjohnqu [38;5;244mat [38;5;166mJMacBook [38;5;244min [38;5;64m~/PycharmProjects/qz_blog[38;5;244m on [38;5;61mmaster*[38;5;244m
 $ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m[K$ (B[m
 ]0;~/PycharmProjects/qz_blog[1m[38;5;125mjohnqu [38;5;244mat [38;5;166mJMacBook [38;5;244min [38;5;64m~/PycharmProjects/qz_blog[38;5;244m on [38;5;61mmaster*[38;5;244m
-$ (B[m
+$ (B[m(B[mbash: /Users/johnqu/.bash_profile: line 31: syntax error near unexpected token `category="LC_ALL",'
+bash: /Users/johnqu/.bash_profile: line 31: `Sys.setlocale(category="LC_ALL", locale = "en_US.UTF-8")'
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+]0;~/PycharmProjects/qz_blog[?1034h[1m[38;5;125mjohnqu [38;5;244mat [38;5;166mJMacBook [38;5;244min [38;5;64m~/PycharmProjects/qz_blog[38;5;244m on [38;5;61mmaster*[38;5;244m
